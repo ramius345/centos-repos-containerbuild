@@ -43,7 +43,7 @@ enabled=0
 gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-CentOS-7
 
 
-[centos-sclo-rh]
+[sclo]
 name=CentOS-7 - SCLo rh
 baseurl=http://mirror.centos.org/centos/7/sclo/$basearch/rh/
 mirrorlist=http://mirrorlist.centos.org?arch=$basearch&release=7&repo=sclo-rh
